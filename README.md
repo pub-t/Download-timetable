@@ -1,6 +1,6 @@
 # download-timetable
- * Получить рассписание каждого автобуса
+ * Получить рассписание каждого автобуса (останвока, время, маршрут)
  
  ### Обязательство перед:
- * Bus-client [https://github.com/pub-t/Bus-client]
+ * Bus-client [https://github.com/pub-t/Bus-client] - API должен отдать текстовое рассписание.
  
